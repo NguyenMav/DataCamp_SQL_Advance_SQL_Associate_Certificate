@@ -3,9 +3,9 @@
 
 # Exam 1 (Multiple Choice - 35 questions)
 
-## Explanations of exam
+## Explanations of the exam
 
-You will be given 100-140 seconds per multiple choice question depending on the complexity of the question. The exam should take about exactly 1 hour if no breaks are taken, but if you require a break in between, you have 2 hours to finish everything.
+You will be given 100-140 seconds per multiple-choice question depending on the complexity of the question. The exam should take about exactly 1 hour if no breaks are taken, but if you require a break in between, you have 2 hours to finish everything.
 
 There will be an implicit three sections in this exam: Database management with PostgreSQL, database querying, and database theory.
 
@@ -25,7 +25,7 @@ Please be able to complete the practice exam for the practical portion of the SQ
 
 Anyhow, the most important task that you have to get right is Task 1, which makes up about half the tests that need to pass to actually finish the practical exam. 
 
-Task 1, it's about making sure the data is cleaned, meaning you have to answer the business requirements exactly as they say. Double-checked/triple-checked each field and their values. There may be nulls or even '-' or abbreviation of a value that's not supposed to be there.
+Task 1, it's about making sure the data is cleaned, meaning you have to answer the business requirements exactly as they say. Double-checked/triple-checked each field and its values. There may be nulls or even '-' or abbreviations of a value that's not supposed to be there.
 
 Make sure your table needs to answer every field requirement according to the business requirement in Task 1 explanations.
 
@@ -33,9 +33,9 @@ The other 3 Tasks are fairly simple database querying, as long as you have inter
 
 ## Business Scenario
 
-LuxurStay Hotels is a major, international chain of hotels. They offer hotels for both business and leisure travellers in major cities across the world. The chain prides themselves on the level of customer service that they offer. 
+LuxurStay Hotels is a major, international chain of hotels. They offer hotels for both business and leisure travellers in major cities across the world. The chain prides itself on the level of customer service that it offer. 
 
-However, the management has been receiving complaints about slow room service in some hotel branches. As these complaints are impacting the customer satisfaction rates, it has become a serious issue. Recent data shows that customer satisfaction has dropped from the 4.5 rating that they expect. 
+However, the management has been receiving complaints about slow room service in some hotel branches. As these complaints are impacting customer satisfaction rates, it has become a serious issue. Recent data shows that customer satisfaction has dropped from the 4.5 rating that they expect. 
 
 You are working with the Head of Operations to identify possible causes and hotel branches with the worst problems. 
 
