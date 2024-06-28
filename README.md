@@ -17,6 +17,8 @@ There will be an implicit three sections in this exam: Database management with 
 
 # Exam 2 (Practical - 4 tasks): Hotel Operations
 
+I know it might be tempting to just copy and paste answers. But trying to do the exams on your own will be beneficial for your future. Certificates have very little value in the data field, it's more to validate the knowledge you have, so you shouldn't try to cheat yourself. The practical exam practice solutions in another repo I provided are more than enough to give you an idea of what to expect in the exam. Regardless of your intent, here's my solution for Exam 2.
+
 ## Explanations of the exam
 
 Please be able to complete the practice exam for the practical portion of the SQL Associate certificate, it will be very useful in completing this.
